@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+<defs><linearGradient id="room" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#293033"/><stop offset="1" stop-color="#a86e3d"/></linearGradient><radialGradient id="glow"><stop stop-color="#fff3cd" stop-opacity=".95"/><stop offset="1" stop-color="#e79b54" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="600" fill="url(#room)"/><path d="M0 360L450 230 900 360v240H0z" fill="#202526" opacity=".65"/><path d="M0 0l450 230L900 0" fill="#171b1d" opacity=".8"/><g stroke="#df9a5c" stroke-width="4"><path d="M190 0v160M450 0v95M710 0v160"/></g>
+<g fill="#f5d79d" stroke="#f7bd6e" stroke-width="3"><path d="M150 160h80l-13 45h-54z"/><path d="M410 95h80l-13 45h-54z"/><path d="M670 160h80l-13 45h-54z"/></g><g fill="url(#glow)"><ellipse cx="190" cy="265" rx="150" ry="100"/><ellipse cx="450" cy="200" rx="150" ry="100"/><ellipse cx="710" cy="265" rx="150" ry="100"/></g>
+<rect x="280" y="370" width="340" height="130" rx="5" fill="#523a2a"/><rect x="310" y="395" width="120" height="75" fill="#d29155" opacity=".75"/><rect x="470" y="395" width="120" height="75" fill="#d29155" opacity=".45"/><text x="450" y="570" fill="#fff1de" opacity=".7" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">LUZ · AMBIENTE · FUNCIONALIDAD</text>
+</svg>
